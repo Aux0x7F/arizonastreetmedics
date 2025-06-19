@@ -2819,3 +2819,7 @@ div.sharedaddy.sd-like-enabled .sd-like .post-likes-widget {
 		display: none;
 	}
 }
+article {
+	max-width:900px;
+	margin:auto;
+}
